@@ -10,7 +10,7 @@
     <body>
 
         <?php
-            date_default_timezone_set('Kenya/Nairobi'); 
+            date_default_timezone_set('Africa/Nairobi'); 
 
             $hours_to_show = 12;  
 			if(isset($_POST['submit'])){
